@@ -1,5 +1,5 @@
 {
-  "name": "MyTelegramOrgRoBot",
+  "name": "TELEGRAM-ORG-BOT-W5",
   "description": "get your APP ID and API HASH inside Telegram",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "repository": "https://github.com/w5-bots-official/TELEGRAM-ORG-BOT-W5",
+  "success_url": "https://telegram.dog/WH173_5P1D3R",
+  "website": "https://github.com/w5-bots-official/TELEGRAM-ORG-BOT-W5",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
